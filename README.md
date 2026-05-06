@@ -45,8 +45,14 @@ I am a **Final Year BCA Student** and a passionate **Full-Stack Developer** spec
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhusudan04337&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan04337&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="160"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Madhusudan04337&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=Madhusudan04337&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Madhusudan04337&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
