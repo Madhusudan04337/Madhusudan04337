@@ -2,13 +2,13 @@
   <img src="https://githance.in/api/render?type=header&variant=signal&v=rect-v4&name=Madhusudan&subtitle=Python+Full-Stack+Developer+%7C+Django+%E2%80%A2+FastAPI+%E2%80%A2+MERN&theme=aurora" alt="Custom header" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/Madhusudan04337" target="_blank">
+    <a href="https://www.linkedin.com/in/madhu-sudan-0006a429a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Madhusudan04337" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:madhusudan@example.com" target="_blank">
+    <a href="mailto:madhusudan27102005@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
@@ -63,11 +63,11 @@ I am a **Final Year BCA Student** and a passionate **Full-Stack Developer** spec
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/Madhusudan04337" target="_blank">
+  <a href="https://www.linkedin.com/in/madhu-sudan-0006a429a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:madhusudan@example.com">
+  <a href="mailto:madhusudan27102005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
